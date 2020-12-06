@@ -1,4 +1,4 @@
-Folder "kaggle" zawiera zapis plików z ukończonego przeze mnie podstawowego kursu uczenia maszynowego na platformie kaggle.com.
+##Folder "kaggle" zawiera zapis plików z ukończonego przeze mnie podstawowego kursu uczenia maszynowego na platformie kaggle.com.
 Dzięki kursowi zapoznałem się z obsługą narzędzia Pandas oraz z podstawowymi informacjami na temat zarządzania danymi przy użyciu tego narzędzia.
 Lekcja pierwsza stanowiła wstęp do kursu opisując czym jest uczenie maszynowe i jak działa. 
 W trakcie lekcji drugiej nauczyłem się importować bazy danych oraz odczytywać z nich interesujące mnie wartości.
